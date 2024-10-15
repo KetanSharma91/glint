@@ -1,0 +1,263 @@
+@media (max-width:1300px) {
+
+    .home-content {
+        padding-bottom: 6.6rem;
+    }
+
+    .home-content h1 {
+        font-size: 3.1rem;
+    }
+
+    .home-content-scroll {
+        bottom: 4.4rem;
+        right: 4.5rem;
+    }
+
+    .home-content-line {
+        height: 6.2rem;
+        right: 3.2rem;
+    }
+
+    .home-social {
+        top: 52%;
+    }
+
+    .about-line {
+        height: 6.2rem;
+        right: 3.2rem;
+    }
+
+    .about-col {
+        padding: 0px 8px;
+    }
+
+    .clients-reviews {
+        margin: 0px 165px;
+    }
+
+    .contact {
+        text-align: center;
+    }
+
+    .contact-right , .contact-left{
+        width: 90%;
+    }
+
+    .contact-right {
+        background-color: #1111;
+        text-align: left;
+    }
+
+    .contact-right::before {
+        background: none;
+    }
+
+    .contact-info h3 {
+        font-size: 2rem;
+    }
+
+    .cinfo h5 {
+        font-size: 2rem;
+    }
+
+    .cinfo p {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width:480px) {
+
+    html,
+    body {
+        overflow-x: hidden;
+    }
+
+    .mirror img {
+        left: -585px;
+    }
+
+    .home {
+        min-height: 722px;
+    }
+
+    .home-content {
+        padding-bottom: 0.6rem;
+    }
+
+    .home-content-main {
+        padding-top: 0rem;
+        text-align: center;
+    }
+
+    .home-content h1 {
+        font-size: 2rem;
+    }
+
+    .home-social {
+        display: none;
+    }
+
+    .home-content-buttons {
+        padding-top: 1rem;
+        text-align: center;
+        margin: 0;
+    }
+
+    .home-content-buttons .btn {
+        margin: 1rem 0;
+    }
+
+    .home-content-scroll {
+        bottom: 4.4rem;
+        right: 4.5rem;
+    }
+
+    .home-content-scroll a {
+        font-size: 0.5rem;
+    }
+
+    .home-content-line {
+        height: 6.2rem;
+        right: 3.2rem;
+    }
+
+    .about-line {
+        height: 6.2rem;
+        right: 3.2rem;
+    }
+
+    .col-full h1 {
+        font-size: 2.2rem;
+    }
+
+    .about-desc {
+        font-size: 1.3rem;
+    }
+
+    .about-col {
+        border: none;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+        padding: 26px;
+    }
+
+    .stats-count {
+        font-size: 4.5rem;
+    }
+
+    .about-stats {
+        flex-direction: column;
+    }
+
+    .ser-set {
+        flex-direction: column;
+    }
+
+    .services {
+        text-align: center;
+    }
+
+    .service-item {
+        flex-direction: column;
+        margin: 10px 20px 10px 25px;
+    }
+
+    .service-text h3 {
+        font-size: 2.2rem;
+    }
+
+    .work-port {
+        position: relative;
+    }
+
+    .workimg2,
+    .workimg3,
+    .workimg4,
+    .workimg5,
+    .workimg6 {
+        left: 0;
+        top: 0;
+    }
+
+    .clients-rows {
+        margin: 0 20px;
+    }
+
+    .clients-rows a {
+        margin: 0
+    }
+
+    .clients-reviews {
+        margin: 0 28px;
+        padding-top: 5.2rem;
+    }
+
+    .reviews p {
+        font-size: 1rem;
+    }
+
+    .clients-reviews button {
+        top: 1.2rem;
+    }
+
+    .client-pre {
+        left: 100px;
+    }
+
+    .client-next {
+        right: 100px;
+    }
+
+    .contact .row {
+        text-align: center;
+    }
+
+    .contact .col-full h1 {
+        font-size: 2.2rem;
+    }
+
+    .contact-btn {
+        width: 90%;
+    }
+
+    .contact-left,
+    .contact-right {
+        width: 90%;
+    }
+
+    .contact-right::before {
+        display: none;
+    }
+
+    .footer-main {
+        flex-direction: column;
+    }
+
+    .subscribe-form {
+        width: 90%;
+    }
+
+    .footer-left,
+    .footer-right {
+        width: 100%;
+    }
+
+    .footer-right {
+        padding: 45px 20px;
+        padding-left: 20px;
+    }
+
+    .footer-right h4 {
+        margin-bottom: 1.6rem;
+    }
+
+    .copyright span {
+        font-size: 1.2rem;
+        margin: 0 50px;
+    }
+
+    .go-top {
+        right: 0;
+        bottom: 0;
+    }
+
+}
